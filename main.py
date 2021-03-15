@@ -3,6 +3,7 @@ import subprocess
 import time
 import sys
 
+
 def git_pull_change(path):
     repo = Repo(path)
     current = repo.head.commit

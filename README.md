@@ -5,6 +5,6 @@ This project uses [gitpython](https://gitpython.readthedocs.io/en/stable/intro.h
 # Install and usage
 + Having a local repository inside the project folder
 + Inside the project folder run `pip install -r requirements.txt`
-+ Also inside the project folder run `python main.py ./my-repository` to start the project
++ Also inside the project folder run `python3 main.py ./my-repository` to start the project
 
 Done !! you will be watching for changes in the target repo
