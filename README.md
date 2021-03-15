@@ -4,7 +4,7 @@ This project uses [gitpython](https://gitpython.readthedocs.io/en/stable/intro.h
 
 # Install and usage
 + You must have a recent version of [python](https://www.python.org/) installed.
-+ Having a local repository inside the project folder
++ Clone the repository you want watch in your local environment.
 + Inside the project folder run `pip install -r requirements.txt`
 + Also inside the project folder run `python main.py ./my-repository` to start the project
 
